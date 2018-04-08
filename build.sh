@@ -9,4 +9,23 @@ mkdir -p build
 cd build
 cmake ..
 make -j `nproc` $*
-echo Build process completed!
+
+if [ $? -eq 0 ]
+then
+  echo .
+  echo .
+  echo .
+  echo Build process completed!
+  echo .
+  echo .
+  echo .
+else
+  echo .
+  echo .
+  echo .
+  echo Error!
+  echo .
+  echo .
+  echo .
+fi
+

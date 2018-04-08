@@ -3,4 +3,22 @@
 
 cd `dirname $0`
 rm -rf build
-echo Cleaned up the project!
+
+if [ $? -eq 0 ]
+then
+  echo .
+  echo .
+  echo .
+  echo Cleaned up the project!
+  echo .
+  echo .
+  echo .
+else
+  echo .
+  echo .
+  echo .
+  echo Error!
+  echo .
+  echo .
+  echo .
+fi 

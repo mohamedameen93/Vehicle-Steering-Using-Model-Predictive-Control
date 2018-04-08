@@ -2,4 +2,4 @@
 # Script to run PID Controller
 
 cd ./build
-./pid
+./mpc
