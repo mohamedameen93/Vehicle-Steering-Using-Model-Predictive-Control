@@ -1,4 +1,4 @@
-# Vehicle-Steering-Using-Model-Predictive-Control
+# Vehicle Steering Using Model Predictive Control
 The main goal of the project is to implement in C++ Model Predictive Control to drive the vehicle around the simulator track.
 
 ---
@@ -25,7 +25,7 @@ The main goal of the project is to implement in C++ Model Predictive Control to 
     ```
     Some function signatures have changed in v0.14.x. See [this PR](https://github.com/udacity/CarND-MPC-Project/pull/3) for more details.
 
-* **Ipopt and CppAD:** Please refer to [this document](https://github.com/mohamedameen93/Vehicle-Steering-Using-PID-Control/blob/master/install_Ipopt_CppAD.md) for installation instructions.
+* **Ipopt and CppAD:** Please refer to [this document](https://github.com/mohamedameen93/Vehicle-Steering-Using-Model-Predictive-Control/blob/master/install_Ipopt_CppAD.md) for installation instructions.
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page). This is already part of the repo so you shouldn't have to worry about it.
 * Simulator. You can download these from the [releases tab](https://github.com/udacity/self-driving-car-sim/releases).
 * Not a dependency but read the [DATA.md](./DATA.md) for a description of the data sent back from the simulator.
