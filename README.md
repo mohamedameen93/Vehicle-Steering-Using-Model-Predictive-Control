@@ -6,14 +6,14 @@ The main goal of the project is to implement in C++ Model Predictive Control to 
 ## Dependencies
 
 * cmake >= 3.5
- * All OSes: [click here for installation instructions](https://cmake.org/install/)
+ * All OSes: click [here](https://cmake.org/install/) for installation instructions.
 * make >= 4.1(mac, linux), 3.81(Windows)
   * Linux: make is installed by default on most Linux distros
-  * Mac: [install Xcode command line tools to get make](https://developer.apple.com/xcode/features/)
-  * Windows: [Click here for installation instructions](http://gnuwin32.sourceforge.net/packages/make.htm)
+  * Mac: Install [Xcode command line tools](https://developer.apple.com/xcode/features/) to get make.
+  * Windows: Click [here](http://gnuwin32.sourceforge.net/packages/make.htm) for installation instructions.
 * gcc/g++ >= 5.4
   * Linux: gcc / g++ is installed by default on most Linux distros
-  * Mac: same deal as make - [install Xcode command line tools]((https://developer.apple.com/xcode/features/)
+  * Mac: same deal as make - Install [Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 * [uWebSockets](https://github.com/uWebSockets/uWebSockets)
   * Run either `install-mac.sh` or `install-ubuntu.sh`.
